@@ -3,15 +3,15 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
 import PhoneAndroidIcon from '@mui/icons-material/PhoneAndroid';
 import EmailIcon from '@mui/icons-material/Email';
 const style = {
-    backgroundColor: '#F2F3F4 '
+    background: '#EAEDED  '
 }
 const message = () => {
-    console.log("Message Submitted") 
-   }
+    console.log("Message Submitted")
+}
 function Contact() {
     return (
         <>
-            <section className="mb-4 mt-6 ml-6" style= {{style}}>
+            <section className="mb-4 mt-6 ml-6" style={{ style }}>
                 <h2 className="h1-responsive font-weight-bold text-center my-1">GET IN Touch</h2>
                 <div className="row">
                     <div className="col-md-2"></div>
@@ -19,31 +19,31 @@ function Contact() {
                         <form id="contact-form" class="my-4" name="contact-form" action="mail.php" method="POST">
                             <div className="row">
                                 <div className="col-md-4">
-                                    <div className="md-form mb-0">
-                                        <input type="text" id="name" name="name" className="form-control" />
-                                        <label for="name" className="">Name</label>
+                                    <div className="md-form mb-4">
+                                        <input type="text" id="name" name="name" className="form-control" placeholder="Name*" />
+
                                     </div>
                                 </div>
                                 <div className="col-md-4">
-                                    <div className="md-form mb-0">
-                                        <input type="text" id="email" name="email" className="form-control" />
-                                        <label for="email" className="">Email</label>
+                                    <div className="md-form mb-4">
+                                        <input type="text" id="email" name="email" className="form-control" placeholder="Email *" />
+
                                     </div>
                                 </div>
                             </div>
                             <div className="row">
                                 <div className="col-md-12">
-                                    <div className="md-form mb-0">
-                                        <input type="text" id="subject" name="subject" className="form-control" />
-                                        <label for="subject" className="">Subject</label>
+                                    <div className="md-form mb-4">
+                                        <input type="text" id="subject" name="subject" className="form-control" placeholder="Subject*" />
+
                                     </div>
                                 </div>
                             </div>
                             <div className="row">
                                 <div className="col-md-12">
                                     <div className="md-form">
-                                        <textarea type="text" id="message" name="message" rows="2" className="form-control md-textarea"></textarea>
-                                        <label for="message">Your message</label>
+                                        <textarea type="text" id="message" name="message" rows="2"
+                                            className="form-control md-textarea" placeholder="Type your message here"></textarea>
                                     </div>
 
                                 </div>
@@ -70,7 +70,7 @@ function Contact() {
                             <h5>Our Email</h5>
                             <p>info@gmail.com</p>
                         </div>
-                        
+
                     </div>
                 </div>
             </section>

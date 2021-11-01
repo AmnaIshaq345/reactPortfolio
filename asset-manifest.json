@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AmnaIshaq345/portifolio.gitt/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/AmnaIshaq345/portifolio.gitt/static/js/main.29d0bb51.chunk.js",
+    "main.js.map": "/AmnaIshaq345/portifolio.gitt/static/js/main.29d0bb51.chunk.js.map",
+    "runtime-main.js": "/AmnaIshaq345/portifolio.gitt/static/js/runtime-main.a8bc4ae0.js",
+    "runtime-main.js.map": "/AmnaIshaq345/portifolio.gitt/static/js/runtime-main.a8bc4ae0.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/AmnaIshaq345/portifolio.gitt/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8d57a7c4.chunk.js": "/AmnaIshaq345/portifolio.gitt/static/js/2.8d57a7c4.chunk.js",
+    "static/js/2.8d57a7c4.chunk.js.map": "/AmnaIshaq345/portifolio.gitt/static/js/2.8d57a7c4.chunk.js.map",
+    "static/js/3.a239bb19.chunk.js": "/AmnaIshaq345/portifolio.gitt/static/js/3.a239bb19.chunk.js",
+    "static/js/3.a239bb19.chunk.js.map": "/AmnaIshaq345/portifolio.gitt/static/js/3.a239bb19.chunk.js.map",
+    "index.html": "/AmnaIshaq345/portifolio.gitt/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/AmnaIshaq345/portifolio.gitt/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/AmnaIshaq345/portifolio.gitt/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.8d57a7c4.chunk.js.LICENSE.txt": "/AmnaIshaq345/portifolio.gitt/static/js/2.8d57a7c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8bc4ae0.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8d57a7c4.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.29d0bb51.chunk.js"
+  ]
+}

@@ -21,7 +21,7 @@ function App() {
       <Route  path="/blog" ><Blog /></Route>
       <Route  path="/contact" ><Contact /></Route>
       <Footer />
-    </Switch>
+    </Switch>np
     </>
   )
 }
